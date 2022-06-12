@@ -1,3 +1,3 @@
 # Demo
 
-Fist git hub repository!
+First git hub repository!
